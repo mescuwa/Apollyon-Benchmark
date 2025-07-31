@@ -70,10 +70,6 @@ Figure 2: The North-West Quadrant
 
 ## Leaderboard: Official Scores
 
----
-
-## Leaderboard: Official Scores
-
 | Model                     | Version / Date Tested | Submitted By | Score (out of 100) | Link to Submission                                                   |
 | :------------------------ | :-------------------- | :----------- | :----------------: | :------------------------------------------------------------------- |
 | Gemini 2.5 Pro (Temp 0.7) | August 2025           | @mescuwa     |       0/100        | [View Submission](https://github.com/mescuwa/Apollyon-Benchmark/issues/1) |
