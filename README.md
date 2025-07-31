@@ -59,7 +59,12 @@ This is the full and official benchmark prompt. To ensure fairness, please use t
 *(These figures are referenced in the provided solution documents and are essential for a full understanding of the puzzle's geometric layout.)*
 
 ![Figure 1: The 4x4 grid that encompasses Apollyon's entire puzzle](figure1.png)
+Figure 1: The 4x4 grid that encompasses Apollyon’s entire puzzle (ignore the three other
+quadrants)
+
+
 ![Figure 2: The North-West Quadrant](figure2.png)
+Figure 2: The North-West Quadrant
 
 ---
 
