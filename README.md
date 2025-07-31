@@ -83,10 +83,6 @@ Figure 2: The North-West Quadrant
 
 ---
 
-*(This leaderboard will be updated as new results are scored.)*
-
----
-
 ## How to Submit a Result for Scoring
 
 **To protect the benchmark's integrity, the solution and detailed scoring rubric are kept private.** Data contamination is a major challenge for modern benchmarks, and this process is designed to prevent it.
